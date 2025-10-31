@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://tanhaowen.github.io//sitemap.xml
